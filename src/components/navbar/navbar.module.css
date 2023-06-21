@@ -1,0 +1,27 @@
+.container{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .signup{
+    border: 2px solid grey;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  .logout{
+    padding: 8px;
+    background-color: #53c28b;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+
+  }
